@@ -1,2 +1,2 @@
-dotnet ef migrations add InitialCreate
-dotnet ef database update
+1.  dotnet ef migrations add InitialCreate
+1.  dotnet ef database update
